@@ -1,70 +1,67 @@
-# Getting Started with Create React App
+Welcome to my personal portfolio showcasing my journey as an AI-focused full-stack developer. Here you’ll find my projects, skills, and contact information—all wrapped in a modern, interactive UI designed to impress recruiters and collaborators alike.
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+🚀 Live Demo
+Explore the live site:
+https://<your-username>.github.io/portfolio
 
-## Available Scripts
+🛠 Tech Stack
+Frontend: React.js · Tailwind CSS · Framer Motion · Vite
 
-In the project directory, you can run:
+Backend & APIs: Node.js · Express · Flask · Streamlit · REST APIs
 
-### `npm start`
+AI & ML: Python · TensorFlow · PyTorch · Hugging Face Transformers · Generative AI
 
-Runs the app in the development mode.\
-Open [http://localhost:3000](http://localhost:3000) to view it in your browser.
+Database: MongoDB
 
-The page will reload when you make changes.\
-You may also see any lint errors in the console.
+Cloud & DevOps: AWS (Cloud Foundations · Cloud Architecting · Generative AI · ML Foundations)
 
-### `npm test`
+Tools & Collaboration: Git & GitHub · Postman · Figma · VS Code
 
-Launches the test runner in the interactive watch mode.\
-See the section about [running tests](https://facebook.github.io/create-react-app/docs/running-tests) for more information.
+🎨 Features
+Staggered Scroll Animations: Sections animate into view as you scroll.
 
-### `npm run build`
+3D Card Hover Effects: Project cards tilt and elevate on hover.
 
-Builds the app for production to the `build` folder.\
-It correctly bundles React in production mode and optimizes the build for the best performance.
+Micro-Interactions: Button ripples, icon rotations, and pulsing background elements.
 
-The build is minified and the filenames include the hashes.\
-Your app is ready to be deployed!
+Responsive Design: Mobile-first layout adapts seamlessly to any screen size.
 
-See the section about [deployment](https://facebook.github.io/create-react-app/docs/deployment) for more information.
+Accessibility: High contrast, semantic HTML, and keyboard navigability.
 
-### `npm run eject`
+Lightweight Loader: CSS spinner displays while the app initializes.
 
-**Note: this is a one-way operation. Once you `eject`, you can't go back!**
+Smooth Scrolling: Native scroll-smooth behavior for navigation links.
 
-If you aren't satisfied with the build tool and configuration choices, you can `eject` at any time. This command will remove the single build dependency from your project.
+📂 Project Structure
+my-portfolio/
+├─ public/
+│  └─ index.html
+├─ src/
+│  ├─ assets/        # Images and static files
+│  ├─ components/    # Reusable UI sections
+│  │  ├─ Hero.jsx
+│  │  ├─ About.jsx
+│  │  ├─ Projects.jsx
+│  │  ├─ Skills.jsx
+│  │  ├─ Contact.jsx
+│  │  └─ Loader.jsx
+│  ├─ App.js
+│  ├─ index.js
+│  └─ tailwind.config.js
+└─ package.json
 
-Instead, it will copy all the configuration files and the transitive dependencies (webpack, Babel, ESLint, etc) right into your project so you have full control over them. All of the commands except `eject` will still work, but they will point to the copied scripts so you can tweak them. At this point you're on your own.
+📦 Installation
+1)git clone https://github.com/<your-username>/portfolio.git
+cd portfolio
+2)Install dependencies
+npm install
+3)Run locally
+npm start
+4)Build for production
+npm run build
 
-You don't have to ever use `eject`. The curated feature set is suitable for small and middle deployments, and you shouldn't feel obligated to use this feature. However we understand that this tool wouldn't be useful if you couldn't customize it when you are ready for it.
-
-## Learn More
-
-You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
-
-To learn React, check out the [React documentation](https://reactjs.org/).
-
-### Code Splitting
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/code-splitting](https://facebook.github.io/create-react-app/docs/code-splitting)
-
-### Analyzing the Bundle Size
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size](https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size)
-
-### Making a Progressive Web App
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app](https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app)
-
-### Advanced Configuration
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/advanced-configuration](https://facebook.github.io/create-react-app/docs/advanced-configuration)
-
-### Deployment
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/deployment](https://facebook.github.io/create-react-app/docs/deployment)
-
-### `npm run build` fails to minify
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
+⭐️ Acknowledgments
+Framer Motion for animations
+Tailwind CSS for utility-first styling
+Lucide Icons for crisp, consistent iconography
+Thank you for visiting my portfolio!
